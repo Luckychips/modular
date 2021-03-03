@@ -1,2 +1,2 @@
-declare const _default: void;
-export default _default;
+declare const signIn: () => string;
+export default signIn;

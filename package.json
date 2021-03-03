@@ -1,6 +1,6 @@
 {
   "name": "modular-sdk",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "main": "dist/user/index.js",
   "module": "dist/user/index.js",
   "source": "src/user/index.ts",

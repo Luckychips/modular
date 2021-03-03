@@ -1,5 +1,5 @@
-const signOut = () => {
-  console.log('sign out');
+const signUp = () => {
+  return 'signUp';
 };
 
-export default signOut();
+export default signUp;

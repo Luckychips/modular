@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-var signUp = function () {
-    console.log('sign up');
+var signOut = function () {
+    return 'signOut';
 };
-exports.default = signUp();
+exports.default = signOut;

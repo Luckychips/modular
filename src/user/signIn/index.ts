@@ -1,5 +1,5 @@
 const signIn = () => {
-  console.log('sign in');
+  return 'signIn';
 };
 
-export default signIn();
+export default signIn;
