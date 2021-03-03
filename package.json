@@ -1,6 +1,6 @@
 {
   "name": "modular-sdk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "library",
   "author": "sksms20000@gmail.com",
   "license": "MIT",
@@ -12,15 +12,11 @@
     "url": "git+https://github.com/Luckychips/modular.git"
   },
   "devDependencies": {
-    "@babel/preset-env": "^7.13.9",
-    "babel-plugin-module-resolver": "^4.1.0",
     "prettier": "^2.2.1"
   },
   "files": [
-    "disc/",
+    "disc",
     "src",
-    ".babelrc",
-    ".prettierrc.js",
     "tsconfig.json"
   ]
 }
