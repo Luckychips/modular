@@ -1,0 +1,13 @@
+{
+  "name": "modular",
+  "version": "0.0.1",
+  "description": "library",
+  "author": "sksms20000@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --build"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
