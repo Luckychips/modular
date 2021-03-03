@@ -7,6 +7,10 @@
   "scripts": {
     "build": "tsc --build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luckychips/modular.git"
+  },
   "devDependencies": {
     "prettier": "^2.2.1"
   }

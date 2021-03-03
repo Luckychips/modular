@@ -6,7 +6,12 @@
     "rootDir": "src",
     "outDir": "dist",
     "allowJs": true,
-    "strict": true
+    "strict": true,
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@sdk/user": ["./src/user/index"]
+    }
   },
   "include": [
     "src/**/*"
