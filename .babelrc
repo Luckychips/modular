@@ -1,0 +1,13 @@
+{
+  "presets": ["@babel/env"],
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "alias": {
+          "@sdk/user": "./src/user/index"
+        }
+      }
+    ]
+  ]
+}

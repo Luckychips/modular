@@ -1,5 +1,5 @@
 {
-  "name": "modular",
+  "name": "modular-sdk",
   "version": "0.0.1",
   "description": "library",
   "author": "sksms20000@gmail.com",
@@ -12,6 +12,7 @@
     "url": "git+https://github.com/Luckychips/modular.git"
   },
   "devDependencies": {
+    "babel-plugin-module-resolver": "^4.1.0",
     "prettier": "^2.2.1"
   }
 }
