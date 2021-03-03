@@ -1,6 +1,9 @@
 {
   "name": "modular-sdk",
   "version": "0.0.3",
+  "main": "dist/user/index.js",
+  "module": "dist/user/index.js",
+  "source": "src/user/index.ts",
   "description": "library",
   "author": "sksms20000@gmail.com",
   "license": "MIT",
